@@ -1,0 +1,19 @@
+{
+  "name": "@ajkachnic/koi",
+  "private": false,
+  "version": "0.0.0",
+  "description": "",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "browser": "./index.cjs",
+  "bin": "./index.cjs",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew Kachnic <ajkachnic@protonmail.com> (https://andrewkachnic.now.sh)",
+  "license": "MIT"
+}

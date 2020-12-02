@@ -1,0 +1,1 @@
+declare function template<T extends Object>(source: string, options: T, strict?: boolean = false): string;
