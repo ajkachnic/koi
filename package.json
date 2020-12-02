@@ -1,7 +1,7 @@
 {
   "name": "@ajkachnic/koi",
   "private": false,
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "types": "./index.d.ts",
   "browser": "./index.js",
